@@ -69,3 +69,5 @@ def decode_image(image_url):
 
 # response2 = fact_check_news(response.content)
 # print(response2)
+
+
